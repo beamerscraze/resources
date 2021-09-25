@@ -1,17 +1,17 @@
 {
-  "application.css": "/packs/css/application-47fd6f08.css",
-  "application.js": "/packs/js/application-62a0ed90b03a661c46a7.js",
-  "application.js.map": "/packs/js/application-62a0ed90b03a661c46a7.js.map",
+  "application.css": "/packs/css/application-c6eba51b.css",
+  "application.js": "/packs/js/application-f79a75c8ab0181d8d31b.js",
+  "application.js.map": "/packs/js/application-f79a75c8ab0181d8d31b.js.map",
   "entrypoints": {
     "application": {
       "css": [
-        "/packs/css/application-47fd6f08.css"
+        "/packs/css/application-c6eba51b.css"
       ],
       "js": [
-        "/packs/js/application-62a0ed90b03a661c46a7.js"
+        "/packs/js/application-f79a75c8ab0181d8d31b.js"
       ],
       "js.map": [
-        "/packs/js/application-62a0ed90b03a661c46a7.js.map"
+        "/packs/js/application-f79a75c8ab0181d8d31b.js.map"
       ]
     },
     "sdk": {
@@ -24,46 +24,46 @@
     },
     "superadmin_pages": {
       "css": [
-        "/packs/css/superadmin_pages-7a57f869.css"
+        "/packs/css/superadmin_pages-f4e0e0d7.css"
       ],
       "js": [
-        "/packs/js/superadmin_pages-62a0ed90b03a661c46a7.js"
+        "/packs/js/superadmin_pages-f79a75c8ab0181d8d31b.js"
       ],
       "js.map": [
-        "/packs/js/superadmin_pages-62a0ed90b03a661c46a7.js.map"
+        "/packs/js/superadmin_pages-f79a75c8ab0181d8d31b.js.map"
       ]
     },
     "superadmin": {
       "css": [
-        "/packs/css/superadmin-d87bee55.css"
+        "/packs/css/superadmin-a24f7a2a.css"
       ],
       "js": [
-        "/packs/js/superadmin-62a0ed90b03a661c46a7.js"
+        "/packs/js/superadmin-f79a75c8ab0181d8d31b.js"
       ],
       "js.map": [
-        "/packs/js/superadmin-62a0ed90b03a661c46a7.js.map"
+        "/packs/js/superadmin-f79a75c8ab0181d8d31b.js.map"
       ]
     },
     "survey": {
       "css": [
-        "/packs/css/survey-82aa3cf6.css"
+        "/packs/css/survey-c817e8ac.css"
       ],
       "js": [
-        "/packs/js/survey-62a0ed90b03a661c46a7.js"
+        "/packs/js/survey-f79a75c8ab0181d8d31b.js"
       ],
       "js.map": [
-        "/packs/js/survey-62a0ed90b03a661c46a7.js.map"
+        "/packs/js/survey-f79a75c8ab0181d8d31b.js.map"
       ]
     },
     "widget": {
       "css": [
-        "/packs/css/widget-1383c2eb.css"
+        "/packs/css/widget-1a496b4c.css"
       ],
       "js": [
-        "/packs/js/widget-62a0ed90b03a661c46a7.js"
+        "/packs/js/widget-f79a75c8ab0181d8d31b.js"
       ],
       "js.map": [
-        "/packs/js/widget-62a0ed90b03a661c46a7.js.map"
+        "/packs/js/widget-f79a75c8ab0181d8d31b.js.map"
       ]
     }
   },
@@ -89,33 +89,19 @@
   "media/font/iconfont.ttf?t=1607666235845": "/packs/media/font/iconfont-2c6ef557.ttf",
   "media/font/iconfont.woff?t=1607666235845": "/packs/media/font/iconfont-c3c6fe49.woff",
   "media/fonts/ionicons.woff?v=2.0.1": "/packs/media/fonts/ionicons-e5a4fae0.woff",
-  "media/shared/assets/fonts/Inter-Bold.woff": "/packs/media/shared/assets/fonts/Inter-Bold-3053fbd18c9c00d7783e462e04beed10.woff",
-  "media/shared/assets/fonts/Inter-Bold.woff2": "/packs/media/shared/assets/fonts/Inter-Bold-8ce7b9e67a6b7cd8c6d71b084095ddf8.woff2",
-  "media/shared/assets/fonts/Inter-Italic.woff": "/packs/media/shared/assets/fonts/Inter-Italic-c52bf90bf478701f3d4f5950041ca78f.woff",
-  "media/shared/assets/fonts/Inter-Italic.woff2": "/packs/media/shared/assets/fonts/Inter-Italic-2171665508e87b63ab462307d21e7cb0.woff2",
-  "media/shared/assets/fonts/Inter-Light.woff": "/packs/media/shared/assets/fonts/Inter-Light-951c5254c8c4aff4fd790906be216bb8.woff",
-  "media/shared/assets/fonts/Inter-Light.woff2": "/packs/media/shared/assets/fonts/Inter-Light-a44d8c552d1c8cacede33b5c443d6780.woff2",
-  "media/shared/assets/fonts/Inter-Medium.woff": "/packs/media/shared/assets/fonts/Inter-Medium-e78f8f072aa56924dc4d735fd1abeb68.woff",
-  "media/shared/assets/fonts/Inter-Medium.woff2": "/packs/media/shared/assets/fonts/Inter-Medium-aec38a6b266a908bc320e30f261771d1.woff2",
-  "media/shared/assets/fonts/Inter-Regular.woff": "/packs/media/shared/assets/fonts/Inter-Regular-608dbe34b525dbf880b8d8ce921a5b54.woff",
-  "media/shared/assets/fonts/Inter-Regular.woff2": "/packs/media/shared/assets/fonts/Inter-Regular-b35f79d43d03b9a20047efe416c35d08.woff2",
-  "media/shared/assets/fonts/Inter-SemiBold.woff": "/packs/media/shared/assets/fonts/Inter-SemiBold-af031ccbfc3d90928feba54c9a4b2d4d.woff",
-  "media/shared/assets/fonts/Inter-SemiBold.woff2": "/packs/media/shared/assets/fonts/Inter-SemiBold-878e0cfc04d6108e9f97f3ce94e25b5e.woff2",
-  "media/shared/assets/fonts/Inter-Thin.woff": "/packs/media/shared/assets/fonts/Inter-Thin-046ff26493bd0c8b7af11d58d459e525.woff",
-  "media/shared/assets/fonts/Inter-Thin.woff2": "/packs/media/shared/assets/fonts/Inter-Thin-bc0c400ab97641432db27b3541daa5ac.woff2",
   "media/widget/assets/images/typing.gif": "/packs/media/widget/assets/images/typing-6027d21b24f45e3377a729a55158f948.gif",
   "sdk.js": "/packs/js/sdk.js",
   "sdk.js.map": "/packs/js/sdk.js.map",
-  "superadmin.css": "/packs/css/superadmin-d87bee55.css",
-  "superadmin.js": "/packs/js/superadmin-62a0ed90b03a661c46a7.js",
-  "superadmin.js.map": "/packs/js/superadmin-62a0ed90b03a661c46a7.js.map",
-  "superadmin_pages.css": "/packs/css/superadmin_pages-7a57f869.css",
-  "superadmin_pages.js": "/packs/js/superadmin_pages-62a0ed90b03a661c46a7.js",
-  "superadmin_pages.js.map": "/packs/js/superadmin_pages-62a0ed90b03a661c46a7.js.map",
-  "survey.css": "/packs/css/survey-82aa3cf6.css",
-  "survey.js": "/packs/js/survey-62a0ed90b03a661c46a7.js",
-  "survey.js.map": "/packs/js/survey-62a0ed90b03a661c46a7.js.map",
-  "widget.css": "/packs/css/widget-1383c2eb.css",
-  "widget.js": "/packs/js/widget-62a0ed90b03a661c46a7.js",
-  "widget.js.map": "/packs/js/widget-62a0ed90b03a661c46a7.js.map"
+  "superadmin.css": "/packs/css/superadmin-a24f7a2a.css",
+  "superadmin.js": "/packs/js/superadmin-f79a75c8ab0181d8d31b.js",
+  "superadmin.js.map": "/packs/js/superadmin-f79a75c8ab0181d8d31b.js.map",
+  "superadmin_pages.css": "/packs/css/superadmin_pages-f4e0e0d7.css",
+  "superadmin_pages.js": "/packs/js/superadmin_pages-f79a75c8ab0181d8d31b.js",
+  "superadmin_pages.js.map": "/packs/js/superadmin_pages-f79a75c8ab0181d8d31b.js.map",
+  "survey.css": "/packs/css/survey-c817e8ac.css",
+  "survey.js": "/packs/js/survey-f79a75c8ab0181d8d31b.js",
+  "survey.js.map": "/packs/js/survey-f79a75c8ab0181d8d31b.js.map",
+  "widget.css": "/packs/css/widget-1a496b4c.css",
+  "widget.js": "/packs/js/widget-f79a75c8ab0181d8d31b.js",
+  "widget.js.map": "/packs/js/widget-f79a75c8ab0181d8d31b.js.map"
 }
